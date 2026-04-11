@@ -51,3 +51,11 @@ footer {
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     transition: 0.3s;
 }
+/* Стили для полей формы */
+input, textarea {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 8px;
+    font-family: Arial, sans-serif;
+    width: 100%;
+}
