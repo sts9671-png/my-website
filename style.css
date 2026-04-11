@@ -46,3 +46,8 @@ footer {
     border-radius: 8px;
     background-color: #f9f9f9;
 }
+/* Эффект при наведении на карточки */
+.post:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
