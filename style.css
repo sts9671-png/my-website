@@ -119,3 +119,14 @@ th {
     background-color: #007bff;
     color: white;
 }
+/* Адаптивность для мобильных устройств */
+@media (max-width: 600px) {
+    body {
+        margin: 10px;
+        padding: 10px;
+    }
+    nav a {
+        display: inline-block;
+        margin: 5px;
+    }
+}
