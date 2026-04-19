@@ -130,3 +130,13 @@ th {
         margin: 5px;
     }
 }
+/* Стили для футера */
+footer {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 14px;
+}
